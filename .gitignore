@@ -1,0 +1,6 @@
+*.o
+*.d
+*.bin
+/ciaa
+/python_env
+/**/out
