@@ -1,0 +1,2 @@
+se podria agregar al final, lo de antitransformada y los efectos de alias en el espectro que no estan en otro lado y calza bien en esta clase
+

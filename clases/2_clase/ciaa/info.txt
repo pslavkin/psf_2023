@@ -1,0 +1,4 @@
+v1: generacion con la ciaa, tono, sweepts, etc
+v2: calculo de maximo, minimo con cmsis
+v3: loro que repite
+v4: escalado con cmsis y operaciones con Q
